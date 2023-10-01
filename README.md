@@ -2,11 +2,10 @@
 Generate condensed planar distributions of arbitrary shaped 2d particles using Monte Carlo steric interactions.
 
 
+![resized_](https://github.com/bumstema/morphologies/assets/25807978/96017d35-d779-42d8-886d-b2d83617febf)
 
-![resized_](https://github.com/bumstema/morphologies/assets/25807978/99e5a1d0-6f0c-4f11-958a-218825526d18)
 
-
-Example simulation of two ellipse, with one (blue) having thin hair-like pretursions on its surface. Hexagonal periodic boundary conditions.
+**Example simulation of two ellipse**, with one (blue) having thin hair-like pretursions on its surface. Hexagonal periodic boundary conditions.
 
 Written as part of PhD thesis: [Simulating Self-Assembly of Organic Molecules & Classifying Intermolecular Dispersion](https://macsphere.mcmaster.ca/handle/11375/22038)
 
