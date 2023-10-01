@@ -1,0 +1,11 @@
+box := periodic
+gr  := 0.0001
+mo  := 0.000001
+ns  := 300
+osa := 3.14159
+osc := 30
+sa  := 1.0
+pifo
+boxFile := /Users/Arby_Bc/Dropbox/ThesisDropbox/Morphologies/morphologies/3_data/polygons/bone.dat
+polyLink  := /Users/Arby_Bc/Dropbox/ThesisDropbox/Morphologies/morphologies/2_run/polygons.dat
+outdir := data/bone

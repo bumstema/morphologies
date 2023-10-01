@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Makefile">
+   </FileRef>
+   <FileRef
+      location = "group:morphologies.h">
+   </FileRef>
+   <FileRef
+      location = "group:morphologies.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:initialization.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:initialization.h">
+   </FileRef>
+   <FileRef
+      location = "group:particles.h">
+   </FileRef>
+   <FileRef
+      location = "group:shake.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:shake.h">
+   </FileRef>
+   <FileRef
+      location = "group:../2_run/defaults.dat">
+   </FileRef>
+   <FileRef
+      location = "group:../2_run/polygons.dat">
+   </FileRef>
+</Workspace>
